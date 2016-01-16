@@ -1,6 +1,0 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="5cm" height="4cm" version="1.1"
-     xmlns="http://www.w3.org/2000/svg">
-    <path d="M0,0 L0,50 L50,50 L50,0 Z" fill="none" stroke="black"/>
-    <path d="M25,25 L25,75 L75,75 L75,25 Z" fill="none" stroke="black"/>
-</svg>
