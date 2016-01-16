@@ -1,4 +1,10 @@
-example of how to union polygons created by overlapping multiple paths
+An express app which gives a simplified example of how to union svg paths which create overlapping polygons.
 
-if you make any changes to pages/*.js you must run ./build.sh
+Assumptions
+* That the output is a polygon, not a multipolygon
+* No bezier curves
+
+If you make any changes to pages/*.js you must run ./build.sh
+
+
 
